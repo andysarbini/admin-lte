@@ -2,9 +2,9 @@
 @section('title', 'Add Posts')
 @section('breadcrumb', 'Posts / Create')
 @section('content')
-    @include('posts.create.html')
+    @include('Posts.Create.html')
 @endsection
 
 @section('extra_javascript')
-    @include('posts.create.javascript')
+    @include('Posts.Create.javascript')
 @endsection

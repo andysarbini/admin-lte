@@ -2,9 +2,9 @@
 @section('title', 'Posts')
 @section('breadcrumb', 'Posts')
 @section('content')
-    @include('posts.html')
+    @include('Posts.html')
 @endsection
 
 @section('extra_javascript')
-    @include('posts.javascript')
+    @include('Posts.javascript')
 @endsection

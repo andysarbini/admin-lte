@@ -8,7 +8,7 @@
             <!-- /.card-header -->
             <div class="row ml-3 mt-3">
                 <div class="col-4">
-                    <a href="create" class="btn btn-success"><i class="fa-fa-plus"> Add</i></a>
+                    <a href="posts/create" class="btn btn-success"><i class="fa-fa-plus"> Add</i></a>
                 </div>
             </div>
             <div class="card-body">
